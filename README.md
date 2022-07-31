@@ -13,3 +13,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+## My GitHub statistics.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mook27&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
