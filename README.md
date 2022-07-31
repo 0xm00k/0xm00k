@@ -18,4 +18,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanmook27&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="mailto: raiyan.mook27@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /><!--<img src="https://img.shields.io/badge/Gmail-@anthony-red?style=social&logo=appveyor" alt="Gmail Badge"/>--></a>
 
+
+## Send a DM.
+<a href="https://twitter.com/raiyandev" target="_blank" rel="noopener noreferrer">
+<!--   <img src="https://img.shields.io/badge/Twitter-@0xfps-blue?style=for-the-badge&logo=appveyor" alt="Twitter Badge"/> -->
+  <img alt="0xfps - Twitter" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+</a>
+
+
+
+## Thank you for visiting my profile.
