@@ -16,5 +16,6 @@
 
 ## My GitHub statistics.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mook27&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanmook27)](https://github.com/anuraghazra/github-readme-stats)
+
 
