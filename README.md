@@ -16,9 +16,9 @@
 
 ## My GitHub statistics.
 
-[![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raiyanmook27&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raiyanmook27&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanmook27&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanmook27&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
