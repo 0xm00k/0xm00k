@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanmook27&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raiyanmook27&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raiyan.mook27&theme=horizon&hide_border=true)](https://git.io/streak-stats)
 
 
 <a href="mailto: raiyan.mook27@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /><!--<img src="https://img.shields.io/badge/Gmail-@anthony-red?style=social&logo=appveyor" alt="Gmail Badge"/>--></a>
