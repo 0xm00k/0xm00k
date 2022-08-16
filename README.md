@@ -22,7 +22,7 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raiyan.mook27)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raiyanmook27&theme=onedark)](https://git.io/streak-stats)
 
 <a href="mailto: raiyan.mook27@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /><!--<img src="https://img.shields.io/badge/Gmail-@anthony-red?style=social&logo=appveyor" alt="Gmail Badge"/>--></a>
 
