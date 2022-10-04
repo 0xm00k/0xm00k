@@ -1,5 +1,3 @@
-## Hi there, I'm mook <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>, and welcome to my profile.
-
 # 💫 About Me:
 🧘🏾‍♂️ My name is Raiyan Mukhtar.<br>🚀 Smart Contract Developer (with Solidity).<br>🔭 I’m currently working on Lum Project.<br>🌱 I’m currently learning everything about the blockchain.<br>🕵️‍♂️ Actively looking for smart contract developer jobs.
 
@@ -22,6 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=raiyanmook27&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## Thank you for visiting my profile.
