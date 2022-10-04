@@ -1,38 +1,25 @@
 ## Hi there, I'm mook <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>, and welcome to my profile.
 
- My name is Raiyan Mukhtar.
-
- Smart Contracts developer with Solidity.
-
-<!-- My projects include NFTs, Smart Contracts, ERC-20 tokens and more.-->
-
-##  Languages and tools.
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity"  alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
-</div>
-
-## My GitHub statistics.
-
-[![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raiyanmook27&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanmook27&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+# 💫 About Me:
+🧘🏾‍♂️ My name is Raiyan Mukhtar.<br>🚀 Smart Contract Developer (with Solidity).<br>🔭 I’m currently working on Lum Project.<br>🌱 I’m currently learning everything about the blockchain.<br>🕵️‍♂️ Actively looking for smart contract developer jobs.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raiyanmook27) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raiyandev) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raiyanmook27&theme=onedark)](https://git.io/streak-stats)
+# 💻 Tech Stack:
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=raiyanmook27&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raiyanmook27&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanmook27&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="mailto: raiyan.mook27@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /><!--<img src="https://img.shields.io/badge/Gmail-@anthony-red?style=social&logo=appveyor" alt="Gmail Badge"/>--></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-## Send a DM.
-<a href="https://twitter.com/raiyandev" target="_blank" rel="noopener noreferrer">
-<!--   <img src="https://img.shields.io/badge/Twitter-@0xfps-blue?style=for-the-badge&logo=appveyor" alt="Twitter Badge"/> -->
-  <img alt="0xfps - Twitter" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
-</a>
-
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=raiyanmook27&icon=0&color=6)](https://visitcount.itsvg.in)
 ## Thank you for visiting my profile.
