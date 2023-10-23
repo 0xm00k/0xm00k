@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧘🏾‍♂️ My name is Raiyan Mukhtar.<br>🚀 Smart Contract Developer (with Solidity).<br>🔭 I’m currently working on Lum Project.<br>🌱 I’m currently learning everything about the blockchain.<br>🕵️‍♂️ Actively looking for smart contract developer jobs.
+🧘🏾‍♂️ My name is Raiyan Mukhtar.<br>🚀 Smart Contract Developer/Auditor (with Solidity).<br>🌱 I’m currently learning everything about the blockchain.<br>🕵️‍♂️ Actively looking for smart contract developer jobs.
 
 
 ## 🌐 Socials:
